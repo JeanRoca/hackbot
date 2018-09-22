@@ -1,6 +1,6 @@
 # Compiled class file
 *.class
-
+/Config.kt
 # Log file
 *.log
 
